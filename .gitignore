@@ -1,0 +1,18 @@
+# PiVPN / VPN Client Configurations
+*.ovpn
+*.conf
+
+# Private Keys, Certificates, PKI
+*.key
+*.crt
+*.pem
+pki/
+
+# Backup and Archive
+pivpnbackup/
+*.tar
+*.gz
+*.tgz
+
+# Local Environment Variables
+*.env
